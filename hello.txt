@@ -13,4 +13,4 @@ hello wangzunzhen hello git!
 hello wangzunzhen hello git!
 hello wangzunzhen hello git!
 hello wangzunzhen hello git!
-hello wangzunzhen hello git!
+hello wangzunzhen hello git! hot-fix test
